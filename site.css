@@ -1,0 +1,22 @@
+body {
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+    font-size: 16px;
+    background-image: 
+    background-color: dimgrey; 
+    color: #696969;
+    padding: 3px;
+}
+
+div.container-fluid {
+    padding: 5px;
+    padding-left:  15px;
+    padding-right: 15px;
+    background-color: #000000;
+    border-radius: 0 0 5px 5px;
+}
+
+h1 {
+    font-family: Georgia, serif;
+    color: #ffff00;
+    font-size: 30px;
+}
